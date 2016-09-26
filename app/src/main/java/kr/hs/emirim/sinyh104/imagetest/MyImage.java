@@ -12,7 +12,6 @@ import android.view.View;
 public class MyImage extends View {
     MyImage(Context context){
         super(context);
-
     }
     protected void onDraw(Canvas canvas){
         super.onDraw(canvas);
